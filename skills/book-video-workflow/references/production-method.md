@@ -1,3 +1,10 @@
+<!--
+Personalized adaptation by chen-young123, 2026.
+Inspired by the Apache-2.0-licensed book-video workflow:
+https://github.com/Endless1936/book-video
+See ../../../NOTICE for attribution details.
+-->
+
 # 制作方法
 
 ## 目标

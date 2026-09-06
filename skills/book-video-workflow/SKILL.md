@@ -3,6 +3,13 @@ name: book-video-workflow
 description: 策划、制作或审查图书与知识类短视频，包括选题核验、原创口播、画面与声音方案、制作编排和交付质检。
 ---
 
+<!--
+Personalized adaptation by chen-young123, 2026.
+Inspired by the Apache-2.0-licensed book-video workflow:
+https://github.com/Endless1936/book-video
+See ../../NOTICE for attribution details.
+-->
+
 # Book Video Workflow
 
 把模糊创意推进为可审核、可制作、可交付的短视频方案。让使用者掌握观点和审美决策，Codex 负责研究整理、流程编排和可重复检查。

@@ -1,3 +1,7 @@
+// Personalized implementation by chen-young123, 2026.
+// It supports the adaptation of the Apache-2.0-licensed book-video workflow:
+// https://github.com/Endless1936/book-video
+
 import { readdir } from "node:fs/promises";
 import { extname, join, relative } from "node:path";
 
@@ -40,4 +44,3 @@ if (violations.length > 0) {
 }
 
 console.log("公开仓库边界检查通过：未发现作品、媒体或常见凭据文件。");
-
