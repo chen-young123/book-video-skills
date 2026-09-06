@@ -1,0 +1,11 @@
+{
+  "name": "book-video-skills",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node scripts/check-public-tree.mjs"
+  },
+  "license": "Apache-2.0"
+}
+

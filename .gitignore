@@ -1,0 +1,29 @@
+# 本仓库只公开 Skills、方法和纯文本/代码工具
+.env
+.env.*
+!.env.example
+node_modules/
+tmp/
+dist/
+build/
+*.log
+
+# 一切媒体、成片、账号或单期制作资料均仅保留在本地
+assets/
+episodes/
+data/
+uploads/
+*.mp3
+*.wav
+*.m4a
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.bin
+
